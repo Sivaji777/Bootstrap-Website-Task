@@ -1,0 +1,75 @@
+.block2
+{
+    display:flex;
+}
+.block3
+{
+    display:flex;
+}
+.first
+{
+    width:50%;
+}
+.second
+{
+    width:50%;
+
+}
+.block4
+{
+    display:flex;
+}
+.first1
+{
+    width:50%;
+}
+.second1
+{
+    width:50%;
+
+}
+.block8
+{
+    display: flex;
+    background-color: rgb(212, 206, 206);
+    padding: 50px;
+}
+.footer1
+{
+    width: 20%;
+}
+.footer2
+{
+    width: 20%;
+    margin-right: 50px;
+}
+.footer1 p a
+{
+   color:rgb(83, 81, 81);
+}
+.footer2 p a
+{
+   color:rgb(68, 66, 66);
+}
+.footer1 p a:hover
+{
+   color: blue;
+}
+.footer2 p a:hover
+{
+   color:blue;
+}
+
+.b1:hover
+{
+   background-color: rgb(146, 142, 142);
+   color: white;
+   border-radius: 8px;
+}
+.b2:hover
+{
+    background-color: blue;
+    color: white;
+    border-radius: 8px;
+}
+
